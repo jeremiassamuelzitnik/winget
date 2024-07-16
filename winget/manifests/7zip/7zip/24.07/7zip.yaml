@@ -1,0 +1,15 @@
+# 7zip.yaml
+Id: 7zip.jeremos
+Publisher: Igor Pavlov
+Name: 7-Zip
+Version: 24.07
+AppMoniker: 7zip
+InstallerType: exe
+Installers:
+  - Architecture: x64
+    InstallerUrl: https://www.7-zip.org/a/7z2407-x64.exe
+    InstallerSha256: ad12cec3a3957ff73a689e0d65a05b6328c80fd76336a1b1a6285335f8dab1ba
+    InstallerSwitches:
+      Silent: /S
+ManifestType: singleton
+ManifestVersion: 1.0.0

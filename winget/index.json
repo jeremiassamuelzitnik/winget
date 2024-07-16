@@ -1,0 +1,16 @@
+{
+  "Sources": [
+    {
+      "Name": "ContosoRepo",
+      "Type": "Microsoft.PreIndexed.Package",
+      "Argument": "http://192.168.55.3/winget/index.json",
+      "Data": [
+        {
+          "PackageIdentifier": "7zip.jeremos",
+          "PackageVersion": "24.07",
+          "PackageUrl": "http://192.168.55.3/winget/manifests/7zip/7zip/24.07/7zip.yaml"
+        }
+      ]
+    }
+  ]
+}

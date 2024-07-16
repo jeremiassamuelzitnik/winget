@@ -3,12 +3,12 @@
     {
       "Name": "ContosoRepo",
       "Type": "Microsoft.PreIndexed.Package",
-      "Argument": "https://raw.githubusercontent.com/jeremiassamuelzitnik/winget/index.json",
+      "Argument": "https://raw.githubusercontent.com/jeremiassamuelzitnik/winget/main/index.json",
       "Data": [
         {
           "PackageIdentifier": "7zip.jeremos",
           "PackageVersion": "24.07",
-          "PackageUrl": "https://raw.githubusercontent.com/jeremiassamuelzitnik/winget/manifests/7zip/7zip/24.07/7zip.yaml"
+          "PackageUrl": "https://raw.githubusercontent.com/jeremiassamuelzitnik/winget/main/manifests/7zip/7zip/24.07/7zip.yaml"
         }
       ]
     }

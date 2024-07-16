@@ -13,7 +13,7 @@
               {
                   "PackageIdentifier": "7zip.jeremos",
                   "PackageVersion": "24.07",
-                  "PackageUrl": "https://api.github.com/repos/jeremiassamuelzitnik/winget/contents/winget/manifests/7zip/7zip/24.07/7zip.yaml"
+                  "PackageUrl": "https://api.github.com/repos/jeremiassamuelzitnik/winget/contents/winget/manifests/7/7zip/7zip/24.07/7zip.yaml"
               }
           ]
       }
